@@ -14,6 +14,7 @@ output.js
 input.js
 code_documentation.pdf
 code_analysis_report.pdf
+isSubscript.py
 
 # Ignore environment variable file
 .env
