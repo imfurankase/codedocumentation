@@ -18,7 +18,7 @@ This tool generates code documentation, comments code files, and provides code a
 2. Navigate to the project directory:
 
     ```bash
-    cd code-documentation-generator
+    cd codedocumentation
     ```
 
 3. Create and activate a virtual environment (because we like to keep our coding environments as tidy as a freshly made bed):
