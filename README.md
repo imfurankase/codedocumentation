@@ -12,7 +12,7 @@ This tool generates code documentation, comments code files, and provides code a
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/imfurankase/code-documentation-generator.git
+    git clone https://github.com/imfurankase/codedocumentation.git
     ```
 
 2. Navigate to the project directory:
